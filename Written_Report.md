@@ -14,9 +14,9 @@ For the failed campaigns, the line mimics with the line from the successful camp
 For the canceled campaigns, it also mimics with the line from the successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-
+![Theater Outcomes_vs_Launch](Resources/Theater_Outcoms_vs_Launch.png)
 For the successful campaigns, the percentage of success declines from the smallest goal to around $29,999. From $25,000 to $35,000, there is small increase and stables until $44,999, it begins to decline. 
-For the failed campaigns, the percentage increased significantly between the smallest goal to around $29,000, and then there’s a small decline going from $29,000 until $39,000, it hovers to 44,999 and then increases again.
+For the failed campaigns, the percentage increased significantly between the smallest goal to around $29,000, and then there√ïs a small decline going from $29,000 until $39,000, it hovers to 44,999 and then increases again.
 For the canceled campaigns, the line is flat since there is no canceled campaign in the Play Subcategory club.
 
 ### Challenges and Difficulties Encountered
@@ -31,7 +31,7 @@ The people who participated in these campaigns, regardless of the outcome such a
 - What can you conclude about the Outcomes based on Goals?
 The Percentage Successful (PS) line and the Percentage Failed (PF) line compliments each other. Whenever the PS line goes up, the PF line goes down; and vice versa. When PS reaches a plague, PF does the same. 
 
-- What are some limitations of this dataset? The limitation is that both graphs don’t tell the full story. There are too many factors as to indicate why each campaign got its own outcome, whether it is a success or a failure. 
+- What are some limitations of this dataset? The limitation is that both graphs don√ït tell the full story. There are too many factors as to indicate why each campaign got its own outcome, whether it is a success or a failure. 
 
 - What are some other possible tables and/or graphs that we could create?
 The column chart.
