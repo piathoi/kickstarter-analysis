@@ -8,13 +8,16 @@ Using graphs based on the data to provide a better understanding for client. Bas
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/102835776/163244043-d7d50695-223a-40fa-ad0b-98c4b060c323.png)
  
 For the successful campaigns, the line punctual a little bit for the first few months from Jan to March. There is a significant increase from March to May, and starts decrease significantly from May to the end of the year, even though there is a small increase from Sep to Oct. 
 For the failed campaigns, the line mimics with the line from the successful campaigns where it increases and starts slowly decreases. 
 For the canceled campaigns, it also mimics with the line from the successful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-![Theater Outcomes_vs_Launch](Resources/Module 1/Analysis Project/Theater_Outcomes_vs_Launch.png)
+
+![Outcome_vs_Goal](https://user-images.githubusercontent.com/102835776/163243998-029a6c1b-26db-4bf6-8fd4-ad06f6a2e6ab.png)
 
 For the successful campaigns, the percentage of success declines from the smallest goal to around $29,999. From $25,000 to $35,000, there is small increase and stables until $44,999, it begins to decline. 
 For the failed campaigns, the percentage increased significantly between the smallest goal to around $29,000, and then thereÕs a small decline going from $29,000 until $39,000, it hovers to 44,999 and then increases again.
