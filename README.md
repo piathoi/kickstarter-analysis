@@ -1,8 +1,11 @@
 # Outcome based on Goals and Outcome based on Launched Date
 
-## Overview: this project is created to analyze the relationship between Outcome versus Goals as well as Outcome versus Launched Date. Using several techniques such as pivot table and functions like countifs(), sum() and round() to generate graphs for client.
+## Overview
 
-### Purpose
+This project is created to analyze the relationship between Outcome versus Goals as well as Outcome versus Launched Date. Using several techniques such as pivot table and functions like countifs(), sum() and round() to generate graphs for client.
+
+## Purpose
+
 Using graphs based on the data to provide a better understanding for client. Based on the graphs, client can determine what needs to improve and/or what can be done to reach the highest goal.
 
 ## Analysis and Challenges
@@ -24,6 +27,7 @@ For the failed campaigns, the percentage increased significantly between the sma
 For the canceled campaigns, the line is flat since there is no canceled campaign in the Play Subcategory club.
 
 ### Challenges and Difficulties Encountered
+
 There were no challenges or difficulties. However, any database can have its problem. For example, to split from Category to Parent Category and Subcategory, the data should be the same. In this case, we do. In a less perfect world, some might not be written the same and therefore, making it difficult to split it.    
 
 ## Results
